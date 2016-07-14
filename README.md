@@ -3,7 +3,7 @@
 This is basically a simple test I was doing with Phaser JS framework (with is btw an awesome framework for making games!)
 
 
-## Requirement
+## Requirements
 
 Modern Web browser such as Chrome, Firefox or Safari.
 
