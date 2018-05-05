@@ -1,0 +1,10 @@
+## OS TMP files ##
+
+# Mac OS
+.DS_Store*
+._*
+
+# Linux
+*~
+*.swp
+.directory
